@@ -1,0 +1,19 @@
+0000000000000000000000000000000000000000 4a091341bac10353aa437eaf669a36daccdb99a5 LuminisDigital <contactluminisdigital@gmail.com> 1736424952 +0100	clone: from https://github.com/doko972/template2.git
+4a091341bac10353aa437eaf669a36daccdb99a5 f974c278bf5f47b3dbcc2d482ab70f7343bc1108 LuminisDigital <contactluminisdigital@gmail.com> 1736425682 +0100	commit: First commit -m template number 2
+f974c278bf5f47b3dbcc2d482ab70f7343bc1108 9408f3b69e39804a34af107d54d7284b801ff978 LuminisDigital <contactluminisdigital@gmail.com> 1736427043 +0100	commit: add sections : hero / services / team with all css styles
+9408f3b69e39804a34af107d54d7284b801ff978 e07e7596c3c667bf2990d02eb7cf30daab631c73 LuminisDigital <contactluminisdigital@gmail.com> 1736427219 +0100	commit: edit readme file with install procedure
+e07e7596c3c667bf2990d02eb7cf30daab631c73 6b38f9a6020ed0ea617807d5f0d754dc93082755 LuminisDigital <contactluminisdigital@gmail.com> 1736428367 +0100	commit: edit readme file
+6b38f9a6020ed0ea617807d5f0d754dc93082755 b6504920c0ee7139ddc7a6ab2b71a4b048a415b3 LuminisDigital <contactluminisdigital@gmail.com> 1736428449 +0100	commit: edit readme file v2
+b6504920c0ee7139ddc7a6ab2b71a4b048a415b3 01b063e62cd405f06f36a0100ad449ab14544eb6 LuminisDigital <contactluminisdigital@gmail.com> 1736428468 +0100	commit: edit readme file v3
+01b063e62cd405f06f36a0100ad449ab14544eb6 cb4f020900a827604ab17b19e620abb82f64899e LuminisDigital <contactluminisdigital@gmail.com> 1736428503 +0100	commit: edit readme file v4
+cb4f020900a827604ab17b19e620abb82f64899e f779185a25854512e88da76e0bc112bba07896c5 LuminisDigital <contactluminisdigital@gmail.com> 1736428533 +0100	commit: edit readme file v5
+f779185a25854512e88da76e0bc112bba07896c5 b8363541276b5f88bdd4e1c6a63bbb7d082360f2 LuminisDigital <contactluminisdigital@gmail.com> 1736428630 +0100	commit: edit readme file v6
+b8363541276b5f88bdd4e1c6a63bbb7d082360f2 d2fe34982c76709fe32d176aa3f206a912057ee0 LuminisDigital <contactluminisdigital@gmail.com> 1736428777 +0100	commit: edit readme file final
+d2fe34982c76709fe32d176aa3f206a912057ee0 928c458d63ed9ca4a3411d6fbbae4d6daa344253 LuminisDigital <contactluminisdigital@gmail.com> 1736428960 +0100	commit: edit readme file final
+928c458d63ed9ca4a3411d6fbbae4d6daa344253 64d3c9c59498d4c5cde326dd2ad5d7aa0314a908 LuminisDigital <contactluminisdigital@gmail.com> 1736429045 +0100	commit: edit readme file final
+64d3c9c59498d4c5cde326dd2ad5d7aa0314a908 ad0a167cbb063432a4b96c58e97220c8bb2c058c LuminisDigital <contactluminisdigital@gmail.com> 1736429140 +0100	commit: edit readme file final
+ad0a167cbb063432a4b96c58e97220c8bb2c058c dca66f5f29005075038a0acc5536af98298300b9 LuminisDigital <contactluminisdigital@gmail.com> 1736429164 +0100	commit: edit readme file final
+dca66f5f29005075038a0acc5536af98298300b9 af94705b09cc153b8e92e232e2728fe32b2581d9 LuminisDigital <contactluminisdigital@gmail.com> 1736518594 +0100	commit: first commit
+af94705b09cc153b8e92e232e2728fe32b2581d9 c1ae83384c8b5eff5eb23b4c37b9d83324891deb LuminisDigital <contactluminisdigital@gmail.com> 1736533064 +0100	commit: section hero.blade.php, services.blade.php, whuChooseUs.blade created
+c1ae83384c8b5eff5eb23b4c37b9d83324891deb f29bce4f581d64d510687904fae8d468ce44cd4e LuminisDigital <contactluminisdigital@gmail.com> 1736596368 +0100	commit: contact.blade.php, infinitecarousel.blade.php, team.blade.php created
+f29bce4f581d64d510687904fae8d468ce44cd4e 0d8fec61c5662bc81a0cf13bd45f70bbb444b9c8 LuminisDigital <contactluminisdigital@gmail.com> 1736598736 +0100	commit: add variables shadow in scss

@@ -1,0 +1,119 @@
+.header {
+    padding: 15px 0;
+    position: relative;
+}
+
+.logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: var(--secondary-color);
+}
+
+.nav {
+    display: flex;
+    list-style: none;
+    gap: 15px;
+    align-items: center;
+}
+
+.nav ul {
+    display: flex;
+    gap: 15px;
+    list-style: none;
+}
+
+.nav ul li a {
+    text-decoration: none;
+    color: var(--secondary-color);
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.nav ul li a:hover {
+    color: var(--primary-color);
+}
+
+.nav {
+    display: flex;
+}
+
+.nav.open {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 100%;
+    right: 0;
+    background: #007bff;
+    width: 100%;
+    box-shadow: 0px 4px 6px var(--shadowBox-2);
+    border-radius: 8px;
+    padding: 1rem;
+    z-index: 10;
+}
+
+.nav ul li {
+    padding: 10px 0;
+}
+.nav-menu {
+    display: flex;
+}
+
+.navbar-toggler {
+    display: none;
+    flex-direction: column;
+    gap: 5px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    z-index: 1000;
+}
+
+.navbar-toggler span {
+    display: block;
+    width: 25px;
+    height: 3px;
+    margin-right: 20px;
+    background: var(--background-color-1);
+    transition: all 0.3s ease;
+}
+
+/* Burger Animation */
+.navbar-toggler.open span:nth-child(1) {
+    transform: rotate(45deg) translateY(6px);
+}
+
+.navbar-toggler.open span:nth-child(2) {
+    opacity: 0;
+}
+
+.navbar-toggler.open span:nth-child(3) {
+    transform: rotate(-45deg) translateY(-6px);
+}
+
+@media (max-width: 768px) {
+    .navbar-toggler {
+        display: flex;
+    }
+
+    .nav {
+        display: none;
+    }
+
+    .nav.open {
+        display: flex;
+        background-color: var(--shadowBox-6);
+    }
+    .nav-menu {
+        flex-direction: column;
+    }
+    .nav ul li a {
+        text-decoration: none;
+        color: var(--primary-color);
+        font-weight: bold;
+        transition: color 0.3s ease;
+    }
+
+    .nav ul li a:hover {
+        color: var(--secondary-color);
+    }
+}
